@@ -58,7 +58,7 @@ The [README.md](README.md) file in the root directory should provide the high-le
 !["shareable research diagram"](https://github.com/HAbitsLab/shareable-research-pipeline-information/blob/master/docs/images/shareable-research-diagram.png "shareable research diagram")
 > The focus for the shareable code as data is the figure outlined in blue/ Moving from de-identified raw data to the output of publication figures and tables.
 
-## Questions to thing about when designing project repository and writing the README:
+## Questions to think about when designing project repository and writing the README:
 ### RAW DATA
 1. What is the raw data in the pipeline?
     - How was it collected( survey, device, sensor array, etc)?
