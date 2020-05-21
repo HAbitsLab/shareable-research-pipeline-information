@@ -55,7 +55,7 @@ The [README.md](README.md) file in the root directory should provide the high-le
 
 ## Flow of data
 
-!["shareable research diagram"](docs\images\shareable-research-diagram.png "shareable research diagram")
+!["shareable research diagram"](\docs\images\shareable-research-diagram.png "shareable research diagram")
 > The focus for the shareable code as data is the figure outlined in blue/ Moving from de-identified raw data to the output of publication figures and tables.
 
 ## Questions to thing about when designing project repository and writing the README:
