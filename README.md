@@ -1,5 +1,5 @@
 # shareable-research-pipeline-information
-A space to share information and standards for making research code and data shareable. The goal is to think about this information during the design and development of the project so make the process of sharing the research code easier with publications. 
+A space to share information and standards for making research code and data shareable. The goal is to think about this information during the design and development of the project to make the process of sharing the research code easier with publications. 
 
 The tools and design choices during the development of research projects can help to make the code and data easier to understand and share.
 
